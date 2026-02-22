@@ -1,10 +1,10 @@
-# 🤖 Robotic Arm Control Center
+# Robotic Arm Control Center
 
 Welcome to the **Robotic Arm** project! This repository contains both a Python-based GUI control and a brand new **Web Dashboard** with a live 3D Digital Twin visualization.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **6-Axis Interactivity**: Control the base yaw, shoulder pitch, elbow pitch, wrist twist, wrist pitch, and tool roll.
 - **3D Digital Twin**: A live 3D kinematic model of your robotic arm built with `@react-three/fiber` that visualizes changes in real time.
@@ -15,7 +15,7 @@ Welcome to the **Robotic Arm** project! This repository contains both a Python-b
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Python Control Environment (Original)
 
@@ -51,7 +51,7 @@ To run the modern web dashboard interface with 3D visualization:
 
 ---
 
-## 🎨 Design System
+## Design System
 
 The web dashboard is styled with a custom dark-mode glassmorphism theme and uses:
 - React + Vite
@@ -61,4 +61,4 @@ The web dashboard is styled with a custom dark-mode glassmorphism theme and uses
 
 ---
 
-Enjoy controlling your robotic arm! 🦾
+Enjoy controlling your robotic arm! 
